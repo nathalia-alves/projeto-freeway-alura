@@ -12,3 +12,5 @@
 - [x] Aprender na prática como usar listas (arrays);
 - [x] Entender como evitar código duplicado com laços de repetição;
 - [x] Desenvolver sua lógica de programação.
+
+> Status do Projeto: Concluido :heavy_check_mark:
