@@ -6,11 +6,6 @@
 <img src="https://github.com/nathalia-alves/projeto-freeway-alura/blob/main/free_way.jpeg?raw=true" width="300" height="250">
 </p>
 
-### Linguagem utilizada
-<p align="left">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-</p>
-
 ### Objetivos
 - [x] Criar um jogo do zero, com animações, pontuação e sons;
 - [x] Adicionar imagens no P5 Js;
