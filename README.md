@@ -1,16 +1,19 @@
-# Curso de Lógica de programação: laços e listas com Javascript
+# <p align="center"> Curso de Lógica de programação: laços e listas com Javascript</p>
 
-https://photos.app.goo.gl/svNUMFpagUSDs15w6
+> <p align="justified"> Este curso tem como objetivo final desenvolver o jogo freeway, no qual o jogador controla uma vaca que deve atravessar uma rodovia cheia de automóveis. </p>
 
+<p align="center">
+<img src="https://github.com/nathalia-alves/projeto-freeway-alura/blob/main/free_way.jpeg?raw=true" width="300" height="250">
+</p>
 
-> Este curso tem como objetivo final desenvolver o jogo freeway, no qual o jogador controla uma vaca que deve atravessar uma rodovia cheia de automóveis.
+### Linguagem utilizada
+<p align="left">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+</p>
 
 ### Objetivos
-
 - [x] Criar um jogo do zero, com animações, pontuação e sons;
 - [x] Adicionar imagens no P5 Js;
 - [x] Aprender na prática como usar listas (arrays);
 - [x] Entender como evitar código duplicado com laços de repetição;
-- [x] Desenvolver sua lógica de programação
-
-
+- [x] Desenvolver sua lógica de programação.
