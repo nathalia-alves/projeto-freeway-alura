@@ -1,12 +1,16 @@
-<h1 align="center"> Curso Alura - Lógica de programação: laços e listas com Javascript<h1>
+# Curso de Lógica de programação: laços e listas com Javascript
 
-## Descrição do Projeto
-Este projeto é referente ao curso de lógica de programação da plataforma **Alura**. Os objetivos ao decorrer do projeto foram os seguintes: 
-* Criar um jogo do zero, com animações, pontuação e sons;
-* Adicionar imagens no P5 Js;
-* Aprender na prática como usar listas (arrays);
-* Entender como evitar código duplicado com laços de repetição;
-* Desenvolver sua lógica de programação;
+https://photos.app.goo.gl/svNUMFpagUSDs15w6
 
-> Status do Projeto: Concluido :heavy_check_mark:
+
+> Este curso tem como objetivo final desenvolver o jogo freeway, no qual o jogador controla uma vaca que deve atravessar uma rodovia cheia de automóveis.
+
+### Objetivos
+
+- [x] Criar um jogo do zero, com animações, pontuação e sons;
+- [x] Adicionar imagens no P5 Js;
+- [x] Aprender na prática como usar listas (arrays);
+- [x] Entender como evitar código duplicado com laços de repetição;
+- [x] Desenvolver sua lógica de programação
+
 
